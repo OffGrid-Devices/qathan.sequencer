@@ -1,0 +1,85 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Qsequencer_presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"looppoints" : [ 1, 8 ],
+					"autogenerate" : [ 0.0 ],
+					"autogenerate_val" : [ 0.0 ],
+					"automodify" : [ 0.0 ],
+					"automodify_val" : [ 0.0 ],
+					"direction" : [ 0.0 ],
+					"editlooponly" : [ 0.0 ],
+					"fold" : [ 0.0 ],
+					"modifier_bang" : [ 0.0 ],
+					"probability" : [ 82.0 ],
+					"repeatmode" : [ 2.0 ],
+					"stepSeq1" : [ 1, 8, 7, 1, 12, 0, 8, 35.299999, 56.900002, 0, 0, 36, 101, 5, 100, 0, 36, 83, 5, 5, 0, 36, 57, 5, 37, 0, 36, 69, 5, 32, 0, 36, 105, 5, 100, 0, 36, 75, 5, 50, 0, 36, 99, 5, 66, 0, 36, 75, 5, 16, 0, 60, 62, 63, 67, 70, 74, 79 ],
+					"stepSeq2" : [ 1, 8, 7, 1, 12, 0, 8, 59.0, 80.0, 0, 0, 60, 101, 4, 0, 1000, 63, 83, 4, 0, 1000, 67, 57, 4, 0, 1000, 74, 78, 4, 0, 1000, 70, 35, 4, 0, 1000, 67, 75, 4, 0, 1000, 60, 114, 4, 0, 1000, 70, 75, 4, 0, 1000, 60, 62, 63, 67, 70, 74, 79 ],
+					"stepSize" : [ 7.0 ],
+					"steps" : [ 8.0 ],
+					"swing" : [ 42.5 ],
+					"thru" : [ 0.0 ],
+					"modulations::pitch-max" : [ 0.0 ],
+					"modulations::pitch-min" : [ 0.0 ],
+					"modulations::prob2duration" : [ 0.0 ],
+					"modulations::prob2flam" : [ 0.0 ],
+					"modulations::prob2flamtime" : [ 0.0 ],
+					"modulations::prob2pitch" : [ 0.0 ],
+					"modulations::prob2velocity" : [ 0.0 ],
+					"modulations::probMode" : [ 0.0 ],
+					"modulations::random2duration" : [ 0.0 ],
+					"modulations::random2flam" : [ 0.0 ],
+					"modulations::random2flamtime" : [ 0.0 ],
+					"modulations::random2pitch" : [ 0.0 ],
+					"modulations::random2velocity" : [ 0.0 ],
+					"modulations::randomSeed" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"looppoints" : [ 1, 16 ],
+					"autogenerate" : [ 0.0 ],
+					"autogenerate_val" : [ 0.0 ],
+					"automodify" : [ 0.0 ],
+					"automodify_val" : [ 0.0 ],
+					"direction" : [ 0.0 ],
+					"editlooponly" : [ 0.0 ],
+					"fold" : [ 0.0 ],
+					"modifier_bang" : [ 0.0 ],
+					"probability" : [ 82.0 ],
+					"repeatmode" : [ 2.0 ],
+					"stepSeq1" : [ 1, 16, 7, 1, 12, 0, 16, 35.299999, 56.900002, 0, 0, 36, 101, 5, 100, 0, 42, 83, 5, 5, 0, 39, 57, 5, 37, 0, 38, 69, 5, 32, 0, 36, 105, 5, 100, 0, 38, 75, 5, 50, 0, 40, 99, 5, 66, 0, 43, 75, 5, 16, 0, 36, 59, 4, 100, 100, 43, 80, 4, 100, 100, 38, 100, 4, 100, 100, 39, 84, 4, 100, 100, 36, 114, 4, 100, 100, 38, 98, 4, 100, 100, 42, 97, 4, 100, 100, 46, 103, 4, 100, 100, 60, 62, 63, 67, 70, 74, 79 ],
+					"stepSeq2" : [ 1, 16, 7, 1, 12, 0, 16, 59.0, 80.0, 0, 0, 60, 101, 4, 0, 1000, 63, 83, 4, 0, 1000, 67, 57, 4, 0, 1000, 74, 78, 4, 0, 1000, 70, 35, 4, 0, 1000, 67, 75, 4, 0, 1000, 60, 114, 4, 0, 1000, 70, 75, 4, 0, 1000, 67, 59, 4, 1000, 1000, 79, 80, 4, 1000, 1000, 60, 100, 4, 1000, 1000, 70, 84, 4, 1000, 1000, 60, 114, 4, 1000, 1000, 63, 98, 4, 1000, 1000, 70, 97, 4, 1000, 1000, 62, 103, 4, 1000, 1000, 60, 62, 63, 67, 70, 74, 79 ],
+					"stepSize" : [ 7.0 ],
+					"steps" : [ 16.0 ],
+					"swing" : [ 42.5 ],
+					"thru" : [ 0.0 ],
+					"modulations::pitch-max" : [ 0.0 ],
+					"modulations::pitch-min" : [ 0.0 ],
+					"modulations::prob2duration" : [ 0.0 ],
+					"modulations::prob2flam" : [ 0.0 ],
+					"modulations::prob2flamtime" : [ 0.0 ],
+					"modulations::prob2pitch" : [ 0.0 ],
+					"modulations::prob2velocity" : [ 0.0 ],
+					"modulations::probMode" : [ 0.0 ],
+					"modulations::random2duration" : [ 0.0 ],
+					"modulations::random2flam" : [ 0.0 ],
+					"modulations::random2flamtime" : [ 0.0 ],
+					"modulations::random2pitch" : [ 0.0 ],
+					"modulations::random2velocity" : [ 0.0 ],
+					"modulations::randomSeed" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
