@@ -26,7 +26,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-09-27 01:30:33 +0000</string>
+	<string>2014-09-29 17:07:13 +0000</string>
 	<key>Modifier</key>
 	<string>Tiago Ângelo</string>
 	<key>NotesVisible</key>
@@ -1511,7 +1511,7 @@ After the first generation, the algorithm starts mixing the latest new born slot
 \
 \
 Where: \
-&lt;selection mode&gt; = \{ random, counter, counter down, counter palindrome\}\
+&lt;selection mode&gt; = \{ random, urn, counter, counter down, counter palindrome\}\
 \
 &lt;auto generate bang&gt; is given by a function generating a bang at N bars or N measures}</string>
 						<key>VerticalPad</key>
@@ -6217,7 +6217,7 @@ This architecture allows us to module live.step objects without filling Live's U
 					<key>Points</key>
 					<array>
 						<string>{174.04629264681017, 174.86081745468169}</string>
-						<string>{174.33792022977332, 229.50000713027927}</string>
+						<string>{174.33792022977332, 229.50000713027924}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -6446,7 +6446,7 @@ This architecture allows us to module live.step objects without filling Live's U
 					<key>Points</key>
 					<array>
 						<string>{358.10668779164314, 275.86083047333324}</string>
-						<string>{358.10668779164314, 325.81957126456916}</string>
+						<string>{358.10668779164314, 325.81957126457024}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -6481,7 +6481,7 @@ This architecture allows us to module live.step objects without filling Live's U
 					<key>Points</key>
 					<array>
 						<string>{174.46164973188135, 275.86082457030193}</string>
-						<string>{174.46164973188135, 325.81958241347172}</string>
+						<string>{174.46164973188135, 325.81958241346888}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -6812,11 +6812,11 @@ This architecture allows us to module live.step objects without filling Live's U
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
-		<integer>3</integer>
+		<integer>2</integer>
 		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{1440, 162}, {1900, 1076}}</string>
+		<string>{{4, 0}, {1436, 878}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -6828,11 +6828,11 @@ This architecture allows us to module live.step objects without filling Live's U
 		<key>Sidebar</key>
 		<true/>
 		<key>SidebarWidth</key>
-		<integer>224</integer>
+		<integer>147</integer>
 		<key>VisibleRegion</key>
-		<string>{{10.666666666666666, 94.666666666666671}, {1107.3333333333333, 624.66666666666674}}</string>
+		<string>{{-377, 0}, {1313.4020231167699, 761.855647632098}}</string>
 		<key>Zoom</key>
-		<real>1.5</real>
+		<real>0.97000002861022949</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
@@ -6852,8 +6852,8 @@ This architecture allows us to module live.step objects without filling Live's U
 			</array>
 			<array>
 				<string>Parameter List</string>
+				<real>1</real>
 				<real>1.5</real>
-				<real>0.87999999523162842</real>
 			</array>
 			<array>
 				<string>Genetic Parameter Modulation Architecture 1</string>
