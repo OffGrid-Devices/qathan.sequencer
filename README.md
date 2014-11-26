@@ -5,15 +5,20 @@ A maxforlive sequencer device implementing stochastic and generative algorithms.
 
 
 
-CHANGE LOG V0.5.1 (26/09/2014)
+CHANGE LOG V0.5.2 (26/11/2014)
 ==============================
-Tested on Max 6.1.8 and Ableton Live 9.1
+Tested on Max 6.1.9 and Ableton Live 9.1
 
-This is a pre-release and only contains the basic functions for the sequencer. Some GUI objects are placed in the patch but are not functioning yet. 
+This is a pre-release. Some features aren't finished yet. 
 
-This version has 4 target sequences, loop points and severall pattr related malfunctions fixed. 
+- Step size issue (when dec/incrementing with keyboard up&down keys) fixed 
 
-The Undo History Spill is almost fixed 
+- Preset controls (recall, store, etc.) are now hidden when the parameter generation process is actvive, to avoid malfunctions
 
-The Genetic Parameter Modulation is on its way
+- Added read/write to pattrstorage
 
+- Added copy/paste sequences
+
+- Fixed loop point selections across liveStep1 and liveStep2
+
+- Implemented Live parameter modulation, which allows you to have 3 data steps per sequence
